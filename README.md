@@ -11,8 +11,8 @@ git clone https://github.com/DailyDoseJS/colorpicker-alt-V.git
 Edit your server.cfg file and paste the name of this resource to the resources array. Like this:
 
 resources: [
-    ....,
-    ....,
+    resource1,
+    resource2,
     colorpicker-alt-V
 ]
 
