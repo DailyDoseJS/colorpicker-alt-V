@@ -2,6 +2,12 @@
 A Colorpicker to set the Car color on a Vehicle.
 Supports: Matt(RGB), Chrome(RGB), Pearl (156 colors), Metallic (RGB).
 
+# Screenshots:
+![Example Image of all Cars with different colors on it](https://i.gyazo.com/0f4e85007fa16ea9c035e08cca961ed3.jpg)
+![Color Picker Window](https://i.gyazo.com/17a397c25f1050ed5edb9ea7473f232b.png)
+![Peal Color Window (slider)](https://i.gyazo.com/28e7e9c3d6d6f45b7aa7e0603124cfc4.png)
+
+
 # IMPORTANT
 There is no DB Stuff Server-Side you have to write it yourself and currently the Colorpicker is set that the player must be in the vehicle if you want to change it just change this parts.
 
