@@ -11,7 +11,8 @@ Supports: Matt(RGB), Chrome(RGB), Pearl (156 colors), Metallic (RGB).
 
 
 # IMPORTANT
-There is no DB Stuff Server-Side you have to write it yourself and currently the Colorpicker is set that the player must be in the vehicle if you want to change it just change this parts.
+- There is no DB Stuff Server-Side you have to write it yourself.
+- Currently the Colorpicker is set that the player must be in the vehicle if you want to change it just change this parts.
 
 # SETUP:
 Go to your resources folder and paste the folder you downloaded. I prefer to clone this repository using git.
