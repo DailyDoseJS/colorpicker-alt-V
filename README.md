@@ -25,7 +25,7 @@ resources: [
     colorpicker-alt-V
 ]
 
-Keybind to Open if player is in the Vehicle: DELETE-Key
+ - Keybind to Open if player is in the Vehicle: DELETE-Key
 
 # License
 
