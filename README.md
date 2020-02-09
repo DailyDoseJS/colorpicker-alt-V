@@ -31,9 +31,10 @@ resources: [
  - Keybind to Open if player is in the Vehicle: DELETE-Key
 
 # Use:
-When you are ingame and in a vehicle pressen the DELETE key to open the Colorpicker.
-Activate only one switch or Booth to color the vehicle(one switch must be active P for Primary, S for Secondary)
-Click on Farbe Lackieren to apply the color to the vehicle.
+- Once you are ingame and in a vehicle pressen the DELETE key to open the Colorpicker.
+- Activate only one switch or Booth to color the vehicle(one switch must be active P for Primary, S for Secondary)
+- Click on Farbe Lackieren to apply the color to the vehicle.
+
 # License
 
 Copyright (c) 2020 DailyDoseJS
