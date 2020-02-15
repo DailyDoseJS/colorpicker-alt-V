@@ -376,7 +376,6 @@ function openCloseSlider(){
   } else {
     slider.style.display = "none";
     colorpicker.style.display ="block";
-    alt.emit("cancelSetColor:ClientSide");
   }
 
 }
