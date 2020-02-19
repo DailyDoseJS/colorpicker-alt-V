@@ -12,7 +12,7 @@ A Colorpicker to set the Car color on a Vehicle.
 # Pearl Color Window (slider):
 ![Pearl Color Window (slider)](https://i.gyazo.com/28e7e9c3d6d6f45b7aa7e0603124cfc4.png)
 # Video
-[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://www.youtube.com/watch?v=9XU-OIqmvMA&t=2s)
+[![Watch the video](https://img.youtube.com/vi/9XU-OIqmvMA/maxresdefault.jpg)](https://www.youtube.com/watch?v=9XU-OIqmvMA&t=2s)
 
 
 # IMPORTANT
